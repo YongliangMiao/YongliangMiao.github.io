@@ -9,7 +9,7 @@ I'm a fourth-year AI student at [Beijing Normal University and Hong Kong Baptist
 🌱 &nbsp;I'm passionate about learning more about understanding and improving (Multimodal) Large Language Models and their related applications.\
 🔭 &nbsp;Currently, I'm:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Interning as an Algorithm Engineer at [Pair City](https://www.paircity.com/home).  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Waiting for offers for a Master's in Computer Science in the United States (I have already received 2 offers).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Waiting for offers for a Master's in Computer Science in the United States.
 
 💬 &nbsp;Feel free to reach out to me for research collaborations, advice, or interesting discussions.\
 📫&nbsp; You can access my [resume](https://github.com/YongliangMiao/YongliangMiao.github.io/blob/main/Resume_YongliangMiao.pdf) to learn more details about me.\
@@ -39,7 +39,8 @@ I'm a fourth-year AI student at [Beijing Normal University and Hong Kong Baptist
 
 
 ### News 🌐
-
+- 02/2025: I created a repo[https://github.com/YongliangMiao/health-llms] for LLMs-related paper reading.
+- 02/2025: I received MSCS offers from Rutgers and emory university.
 - 01/2025: I received MSCS offers from NEU and WashU.
 - 12/2024: I started my internship at [Pair City](https://www.paircity.com/home).
 - 06/2024: I started working as a Research Assistant at Hong Kong University of Science and Technology (Guangzhou).
