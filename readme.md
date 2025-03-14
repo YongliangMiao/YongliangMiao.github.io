@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Yongliang Miao,
 
-I'm a fourth-year AI student at [Beijing Normal University and Hong Kong Baptist University United International College](https://uic.edu.cn/en/).
+I'm a fourth-year AI student at [Beijing Normal University and Hong Kong Baptist University United International College](https://uic.edu.cn/en/). 🔥🔥If you need a research intern who is self-motivated and responsible, I’d be a great fit!🔥🔥
 
 
 ### 👨🏻‍💻 &nbsp;About Me
