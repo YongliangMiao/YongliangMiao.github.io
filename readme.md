@@ -39,7 +39,7 @@ I'm a fourth-year AI student at [Beijing Normal University and Hong Kong Baptist
 
 
 ### News 🌐
-- 02/2025: I created a repo[https://github.com/YongliangMiao/health-llms] for LLMs-related paper reading.
+- 02/2025: I created a [repo](https://github.com/YongliangMiao/health-llms) for LLMs-related paper reading.
 - 02/2025: I received MSCS offers from Rutgers and emory university.
 - 01/2025: I received MSCS offers from NEU and WashU.
 - 12/2024: I started my internship at [Pair City](https://www.paircity.com/home).
