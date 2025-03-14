@@ -15,7 +15,7 @@ I'm a fourth-year AI student at [Beijing Normal University and Hong Kong Baptist
 📫&nbsp; You can access my [resume](https://github.com/YongliangMiao/YongliangMiao.github.io/blob/main/Resume_YongliangMiao.pdf) to learn more details about me.\
 ✍️ &nbsp;In my free time, I enjoy working out and watching American TV shows.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
