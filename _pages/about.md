@@ -12,12 +12,12 @@ I'm a fourth-year AI student at [Beijing Normal-Hong Kong Baptist University](ht
 🔥<span style="color: #BF360C; font-weight: bold; font-size: 1.1em;">If you need a research intern who is self-motivated and responsible, I’d be a great fit!</span>🔥
 
 
-Recent Research Interests
+🤖 **Recent Research Interests**
 ======
 
-**(Multimodal) Large Language Model Factuality and Reasoning:** Understanding and enhancing (M)LLM reasoning capabilities, reducing hallucinations, and effectively detecting uncertainty.  
+**(Multimodal) Large Language Model Reasoning:** Understanding and improving the reasoning capabilities of (M)LLMs by improving logical consistency, uncertainty detection, and structured output generation.
 
-**Applications of LLMs:** Improving and leveraging Large Language Model reasoning in fields such as mathematics and medicine to enhance accuracy and reliability in related tasks.
+**Applications of LLMs:** Improving and leveraging Large Language Model reasoning in fields such as mathematics and medicine.
 
 News 🌐
 ------
