@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a fourth-year AI student at [Beijing Normal-Hong Kong Baptist University](https://uic.edu.cn/en/). I am currently waiting for admission results for a Master's in Computer Science and interning in [Pair City](https://www.paircity.com/home) while conducting research on LLM uncertainty.
 
-🔥If you need a research intern who is self-motivated and responsible, I’d be a great fit!🔥
+🔥<span style="color: orange;">If you need a research intern who is self-motivated and responsible, I’d be a great fit!</span>🔥
 
 Recent Research Interests
 ======
@@ -18,7 +18,7 @@ Recent Research Interests
 
 **Applications of LLMs:** Improving and leveraging Large Language Model reasoning in fields such as mathematics and medicine to enhance accuracy and reliability in related tasks.
 
-News
+News 🌐
 ------
 - 03/2025: I received MSCS offers from emory.
 - 02/2025: I created a [repo](https://github.com/YongliangMiao/health-llms) for LLMs-related paper reading.
