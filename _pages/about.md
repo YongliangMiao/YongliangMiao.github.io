@@ -14,9 +14,6 @@ I'm a fourth-year AI student at [Beijing Normal-Hong Kong Baptist University](ht
 Recent Research Interests
 ======
 
-
-Getting started
-======
 **(Multimodal) Large Language Model Factuality and Reasoning:** Understanding and enhancing (M)LLM reasoning capabilities, reducing hallucinations, and effectively detecting uncertainty.  
 
 **Applications of LLMs:** Improving and leveraging Large Language Model reasoning in fields such as mathematics and medicine to enhance accuracy and reliability in related tasks.
