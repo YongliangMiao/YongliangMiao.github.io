@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth-year AI student at [Beijing Normal-Hong Kong Baptist University](https://uic.edu.cn/en/). I am currently waiting for admission results for a Master's in Computer Science and interning in [Pair City](https://www.paircity.com/home) while conducting research on LLM uncertainty.
+I'm a fourth-year AI student at [Beijing Normal-Hong Kong Baptist University](https://uic.edu.cn/en/). I am currently waiting for admission results for a Master's in Computer Science and interning in [Pair City](https://www.paircity.com/home) while conducting research on LLM uncertainty. You can find 📄 my [CV](assets/cv.pdf) here.
 
 🔥<span style="color: #BF360C; font-weight: bold; font-size: 1.1em;">If you need a research intern who is self-motivated and responsible, I’d be a great fit!</span>🔥
 
