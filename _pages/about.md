@@ -14,9 +14,9 @@ I'm a fourth-year AI student at [Beijing Normal-Hong Kong Baptist University](ht
 
 **Recent Research Interests** 🤖
 ======
-• ***Multimodal Large Language Model Reasoning:***  Understanding and improving the reasoning capabilities of (M)LLMs by enhancing logical consistency, uncertainty detection, and structured output generation.  
+• ***(Multimodal) Large Language Model Reasoning:***  Understanding and improving the reasoning capabilities of (M)LLMs by enhancing logical consistency, uncertainty detection, and structured output generation.  
 
-• ***Applications of LLMs:***  Advancing Large Language Model reasoning in fields such as mathematics and medicine.  
+• ***Applications of Large Language Models:***  Advancing Large Language Model reasoning in fields such as mathematics and medicine.  
 
 
 
