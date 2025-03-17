@@ -31,3 +31,14 @@ News 🌐
 - 06/2024: I started working as a Research Assistant at Hong Kong University of Science and Technology (Guangzhou), advised by Prof.[Xuming Hu](https://xuminghu.github.io/).
 - 11/2023: I started working as a Research Assistant at WestLake University,advised by Prof.[Tao Lin](https://tlin-taolin.github.io/).
 
+Tech Stack ⚙️
+------
+• ***Programming:*** Python (advanced), PyTorch / TensorFlow, Java, JavaScript (for deployment), SQL, Shell Scripting
+
+• ***Data Analytics & AI:*** Jupyter Notebook, NumPy / Pandas, Matplotlib / Seaborn, PyTorch / TensorFlow
+
+Hobbies 🌱
+------
+• ***Fitness:*** Passionate about strength training and hitting the gym to stay active and healthy.  
+
+• ***Music:*** Enjoy Hip-Hop, Gospel, R&B, Blues, and a variety of other genres.  
