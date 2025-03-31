@@ -14,7 +14,7 @@ I'm a fourth-year AI student at Hong Kong Baptist University. I am currently wai
 
 **Recent Research Interests** 🤖
 ======
-• ***(Multimodal) Large Language Model Reasoning:***  Understanding and improving the reasoning capabilities of (M)LLMs by enhancing logical consistency, uncertainty detection, and structured output generation.  
+• ***(Multimodal) Large Language Model Reasoning:***  Understanding and improving the reasoning capabilities of (M)LLMs by enhancing logical consistency, uncertainty detection, and structured output generation.Meanwhile, what kinds of metrics can measure the reasoning capabilities of LLMs? And how can these metrics, in turn, help LLMs further improve their reasoning?
 
 • ***Applications of Large Language Models:***  Advancing Large Language Model reasoning in fields such as mathematics and medicine.  
 
