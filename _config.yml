@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Yongliang Miao"
 title_separator          : "-"
 name                     : &name "Yongliang Miao"
-description              : &description "Senior Student @ BNBU"
+description              : &description "Senior Student "
 url                      : https://yongliangmiao.github.io
 
 repository               : "https://yongliangmiao.github.io"
